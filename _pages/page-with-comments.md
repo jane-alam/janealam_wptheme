@@ -1,10 +1,11 @@
 ---
-ID: 39
+ID: 155
 post_title: Page with comments
-author: Jane
+author: Theme Buster
 post_excerpt: ""
 layout: page
-permalink: http://amra.pro/page-with-comments/
+permalink: >
+  http://amra.pro/about/page-with-comments/
 published: true
 post_date: 2007-09-04 10:47:47
 ---
