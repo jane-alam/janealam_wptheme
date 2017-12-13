@@ -1,10 +1,10 @@
 ---
-ID: 575
+ID: 56
 post_title: 'Post Format: Quote'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/post-format-quote/
+permalink: http://amra.pro/post-format-quote/
 published: true
 post_date: 2010-02-05 08:13:15
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 1173
+ID: 104
 post_title: 'Markup: Title With Markup'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/markup-title-with-markup/
+  http://amra.pro/markup-title-with-markup/
 published: true
 post_date: 2013-01-05 10:00:49
 ---

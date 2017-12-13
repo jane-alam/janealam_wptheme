@@ -1,11 +1,10 @@
 ---
-ID: 1133
+ID: 33
 post_title: Page Image Alignment
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: page
-permalink: >
-  http://dev.amra.pro/page-image-alignment/
+permalink: http://amra.pro/page-image-alignment/
 published: true
 post_date: 2013-03-15 18:19:23
 ---

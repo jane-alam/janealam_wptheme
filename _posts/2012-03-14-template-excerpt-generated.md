@@ -1,11 +1,11 @@
 ---
-ID: 1446
+ID: 94
 post_title: 'Template: Excerpt (Generated)'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/template-excerpt-generated/
+  http://amra.pro/template-excerpt-generated/
 published: true
 post_date: 2012-03-14 09:49:22
 ---

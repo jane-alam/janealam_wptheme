@@ -1,10 +1,10 @@
 ---
-ID: 996
+ID: 102
 post_title: 'Template: More Tag'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/template-more-tag/
+permalink: http://amra.pro/template-more-tag/
 published: true
 post_date: 2012-03-15 14:41:11
 ---

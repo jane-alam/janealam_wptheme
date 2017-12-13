@@ -1,11 +1,11 @@
 ---
-ID: 1005
+ID: 64
 post_title: 'Post Format: Video (VideoPress)'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/post-format-video-videopress/
+  http://amra.pro/post-format-video-videopress/
 published: true
 post_date: 2010-06-02 03:00:34
 ---

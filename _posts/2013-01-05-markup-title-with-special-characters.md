@@ -1,11 +1,11 @@
 ---
-ID: 1174
+ID: 106
 post_title: 'Markup: Title With Special Characters'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/title-with-special-characters/
+  http://amra.pro/markup-title-with-special-characters/
 published: true
 post_date: 2013-01-05 11:00:20
 ---

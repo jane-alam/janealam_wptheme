@@ -1,11 +1,11 @@
 ---
-ID: 1011
+ID: 98
 post_title: 'Template: Featured Image (Horizontal)'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/template-featured-image-horizontal/
+  http://amra.pro/template-featured-image-horizontal/
 published: true
 post_date: 2012-03-15 15:15:12
 ---

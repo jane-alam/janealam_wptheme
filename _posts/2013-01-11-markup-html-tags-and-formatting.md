@@ -1,11 +1,11 @@
 ---
-ID: 1178
+ID: 112
 post_title: 'Markup: HTML Tags and Formatting'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/markup-html-tags-and-formatting/
+  http://amra.pro/markup-html-tags-and-formatting/
 published: true
 post_date: 2013-01-11 20:22:19
 ---

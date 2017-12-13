@@ -1,10 +1,10 @@
 ---
-ID: 579
+ID: 60
 post_title: 'Post Format: Status'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/post-format-status/
+permalink: http://amra.pro/post-format-status/
 published: true
 post_date: 2010-04-04 08:21:24
 ---

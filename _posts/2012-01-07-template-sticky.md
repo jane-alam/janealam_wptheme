@@ -1,10 +1,10 @@
 ---
-ID: 1241
+ID: 90
 post_title: 'Template: Sticky'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/template-sticky/
+permalink: http://amra.pro/template-sticky/
 published: true
 post_date: 2012-01-07 07:07:21
 ---

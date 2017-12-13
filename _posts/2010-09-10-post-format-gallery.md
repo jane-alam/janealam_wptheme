@@ -1,10 +1,10 @@
 ---
-ID: 555
+ID: 76
 post_title: 'Post Format: Gallery'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/post-format-gallery/
+permalink: http://amra.pro/post-format-gallery/
 published: true
 post_date: 2010-09-10 07:24:14
 ---

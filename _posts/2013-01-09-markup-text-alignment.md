@@ -1,11 +1,10 @@
 ---
-ID: 1176
+ID: 108
 post_title: 'Markup: Text Alignment'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: >
-  http://dev.amra.pro/markup-text-alignment/
+permalink: http://amra.pro/markup-text-alignment/
 published: true
 post_date: 2013-01-09 09:00:39
 ---

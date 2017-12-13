@@ -1,10 +1,10 @@
 ---
-ID: 562
+ID: 54
 post_title: 'Post Format: Chat'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/post-format-chat/
+permalink: http://amra.pro/post-format-chat/
 published: true
 post_date: 2010-01-08 07:59:31
 ---

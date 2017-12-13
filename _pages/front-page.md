@@ -1,10 +1,10 @@
 ---
-ID: 701
+ID: 11
 post_title: Front Page
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: page
-permalink: http://dev.amra.pro/front-page/
+permalink: http://amra.pro/front-page/
 published: true
 post_date: 2011-05-20 18:49:43
 ---

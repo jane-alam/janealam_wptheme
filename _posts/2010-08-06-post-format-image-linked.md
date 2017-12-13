@@ -1,11 +1,11 @@
 ---
-ID: 568
+ID: 70
 post_title: 'Post Format: Image (Linked)'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/post-format-image-linked/
+  http://amra.pro/post-format-image-linked/
 published: true
 post_date: 2010-08-06 08:09:39
 ---

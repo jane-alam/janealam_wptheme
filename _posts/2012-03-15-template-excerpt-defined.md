@@ -1,14 +1,11 @@
 ---
-ID: 993
+ID: 96
 post_title: 'Template: Excerpt (Defined)'
-author: janealam
-post_excerpt: >
-  This is a user-defined post excerpt. It
-  should be displayed in place of the post
-  content in archive-index pages.
+author: Jane
+post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/template-excerpt-defined/
+  http://amra.pro/template-excerpt-defined/
 published: true
 post_date: 2012-03-15 14:38:08
 ---

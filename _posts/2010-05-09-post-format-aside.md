@@ -1,10 +1,10 @@
 ---
-ID: 559
+ID: 62
 post_title: 'Post Format: Aside'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/post-format-aside/
+permalink: http://amra.pro/post-format-aside/
 published: true
 post_date: 2010-05-09 07:51:54
 ---

@@ -1,11 +1,10 @@
 ---
-ID: 1177
+ID: 110
 post_title: 'Markup: Image Alignment'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: >
-  http://dev.amra.pro/markup-image-alignment/
+permalink: http://amra.pro/markup-image-alignment/
 published: true
 post_date: 2013-01-10 20:15:40
 ---

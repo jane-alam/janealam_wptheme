@@ -1,11 +1,11 @@
 ---
-ID: 1152
+ID: 46
 post_title: 'Edge Case: Many Categories'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/edge-case-many-categories/
+  http://amra.pro/edge-case-many-categories/
 published: true
 post_date: 2009-07-02 02:00:03
 ---

@@ -1,11 +1,10 @@
 ---
-ID: 1179
+ID: 80
 post_title: 'Media: Twitter Embeds'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: >
-  http://dev.amra.pro/media-twitter-embeds/
+permalink: http://amra.pro/media-twitter-embeds/
 published: true
 post_date: 2011-03-15 15:47:16
 ---

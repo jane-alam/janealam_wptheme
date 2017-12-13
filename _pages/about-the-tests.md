@@ -1,10 +1,10 @@
 ---
-ID: 12
+ID: 5
 post_title: About The Tests
-author: Theme Buster
+author: Jane
 post_excerpt: ""
 layout: page
-permalink: http://dev.amra.pro/about/
+permalink: http://amra.pro/about-the-tests/
 published: true
 post_date: 2010-07-25 19:40:01
 ---

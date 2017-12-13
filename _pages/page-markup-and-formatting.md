@@ -1,11 +1,11 @@
 ---
-ID: 1134
+ID: 35
 post_title: Page Markup And Formatting
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.amra.pro/page-markup-and-formatting/
+  http://amra.pro/page-markup-and-formatting/
 published: true
 post_date: 2013-03-15 18:20:05
 ---

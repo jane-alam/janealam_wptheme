@@ -1,11 +1,11 @@
 ---
-ID: 1168
+ID: 88
 post_title: 'Protected: Template: Password Protected (the password is &#8220;enter&#8221;)'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/template-password-protected/
+  http://amra.pro/protected-template-password-protected-the-password-is-enter/
 published: true
 post_date: 2012-01-04 09:38:05
 ---

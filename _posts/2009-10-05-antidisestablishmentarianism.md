@@ -1,11 +1,11 @@
 ---
-ID: 1175
+ID: 52
 post_title: Antidisestablishmentarianism
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/title-should-not-overflow-the-content-area/
+  http://amra.pro/antidisestablishmentarianism/
 published: true
 post_date: 2009-10-05 12:00:59
 ---

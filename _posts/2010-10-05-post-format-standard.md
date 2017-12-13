@@ -1,11 +1,10 @@
 ---
-ID: 358
+ID: 78
 post_title: 'Post Format: Standard'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: >
-  http://dev.amra.pro/post-format-standard/
+permalink: http://amra.pro/post-format-standard/
 published: true
 post_date: 2010-10-05 00:27:25
 ---

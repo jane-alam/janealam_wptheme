@@ -1,11 +1,11 @@
 ---
-ID: 1163
+ID: 72
 post_title: 'Post Format: Image (Caption)'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/post-format-image-caption/
+  http://amra.pro/post-format-image-caption/
 published: true
 post_date: 2010-08-07 06:00:19
 ---

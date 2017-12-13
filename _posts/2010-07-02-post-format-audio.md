@@ -1,10 +1,10 @@
 ---
-ID: 587
+ID: 68
 post_title: 'Post Format: Audio'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/post-format-audio/
+permalink: http://amra.pro/post-format-audio/
 published: true
 post_date: 2010-07-02 08:36:44
 ---

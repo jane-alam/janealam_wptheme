@@ -1,10 +1,10 @@
 ---
-ID: 501
+ID: 9
 post_title: Clearing Floats
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: page
-permalink: http://dev.amra.pro/clearing-floats/
+permalink: http://amra.pro/clearing-floats/
 published: true
 post_date: 2010-08-01 09:42:26
 ---

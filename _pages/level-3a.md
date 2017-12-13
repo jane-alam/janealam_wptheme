@@ -1,11 +1,10 @@
 ---
-ID: 746
+ID: 23
 post_title: Level 3a
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: page
-permalink: >
-  http://dev.amra.pro/level-1/level-2/level-3a/
+permalink: http://amra.pro/level-3a/
 published: true
 post_date: 2011-06-23 19:04:24
 ---

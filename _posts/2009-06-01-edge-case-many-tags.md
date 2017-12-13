@@ -1,10 +1,10 @@
 ---
-ID: 1151
+ID: 44
 post_title: 'Edge Case: Many Tags'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/edge-case-many-tags/
+permalink: http://amra.pro/edge-case-many-tags/
 published: true
 post_date: 2009-06-01 01:00:34
 ---

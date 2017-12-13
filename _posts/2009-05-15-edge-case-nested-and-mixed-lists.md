@@ -1,11 +1,11 @@
 ---
-ID: 1000
+ID: 42
 post_title: 'Edge Case: Nested And Mixed Lists'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/edge-case-nested-and-mixed-lists/
+  http://amra.pro/edge-case-nested-and-mixed-lists/
 published: true
 post_date: 2009-05-15 14:48:32
 ---

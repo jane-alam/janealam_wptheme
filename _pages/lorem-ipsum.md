@@ -1,10 +1,10 @@
 ---
-ID: 146
+ID: 27
 post_title: Lorem Ipsum
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: page
-permalink: http://dev.amra.pro/lorem-ipsum/
+permalink: http://amra.pro/lorem-ipsum/
 published: true
 post_date: 2007-09-04 09:52:50
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 1150
+ID: 84
 post_title: 'Template: Comments Disabled'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/template-comments-disabled/
+  http://amra.pro/template-comments-disabled/
 published: true
 post_date: 2012-01-02 10:21:15
 ---

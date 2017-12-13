@@ -1,10 +1,10 @@
 ---
-ID: 1148
+ID: 86
 post_title: 'Template: Comments'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/template-comments/
+permalink: http://amra.pro/template-comments/
 published: true
 post_date: 2012-01-03 10:11:37
 ---

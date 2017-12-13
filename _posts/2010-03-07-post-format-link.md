@@ -1,10 +1,10 @@
 ---
-ID: 565
+ID: 58
 post_title: 'Post Format: Link'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/post-format-link/
+permalink: http://amra.pro/post-format-link/
 published: true
 post_date: 2010-03-07 08:06:53
 ---

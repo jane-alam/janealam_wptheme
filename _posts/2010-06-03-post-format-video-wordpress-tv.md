@@ -1,11 +1,11 @@
 ---
-ID: 582
+ID: 66
 post_title: 'Post Format: Video (WordPress.tv)'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/post-format-video-wordpresstv/
+  http://amra.pro/post-format-video-wordpress-tv/
 published: true
 post_date: 2010-06-03 08:25:58
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 157
+ID: 37
 post_title: Page with comments disabled
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: page
 permalink: >
-  http://dev.amra.pro/page-with-comments-disabled/
+  http://amra.pro/page-with-comments-disabled/
 published: true
 post_date: 2007-09-04 10:48:10
 ---

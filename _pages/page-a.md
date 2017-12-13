@@ -1,10 +1,10 @@
 ---
-ID: 733
+ID: 29
 post_title: Page A
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: page
-permalink: http://dev.amra.pro/page-a/
+permalink: http://amra.pro/page-a/
 published: true
 post_date: 2011-06-23 18:38:52
 ---

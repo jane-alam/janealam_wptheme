@@ -1,11 +1,11 @@
 ---
-ID: 1031
+ID: 74
 post_title: 'Post Format: Gallery (Tiled)'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
 permalink: >
-  http://dev.amra.pro/post-format-gallery-tiled/
+  http://amra.pro/post-format-gallery-tiled/
 published: true
 post_date: 2010-09-09 17:23:27
 ---

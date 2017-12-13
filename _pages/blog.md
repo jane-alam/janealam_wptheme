@@ -1,10 +1,10 @@
 ---
-ID: 703
+ID: 7
 post_title: Blog
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: page
-permalink: http://dev.amra.pro/blog/
+permalink: http://amra.pro/blog/
 published: true
 post_date: 2011-05-20 18:51:43
 ---

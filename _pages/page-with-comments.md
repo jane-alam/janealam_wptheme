@@ -1,10 +1,10 @@
 ---
-ID: 155
+ID: 39
 post_title: Page with comments
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: page
-permalink: http://dev.amra.pro/page-with-comments/
+permalink: http://amra.pro/page-with-comments/
 published: true
 post_date: 2007-09-04 10:47:47
 ---

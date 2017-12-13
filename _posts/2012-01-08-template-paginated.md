@@ -1,10 +1,10 @@
 ---
-ID: 1171
+ID: 92
 post_title: 'Template: Paginated'
-author: janealam
+author: Jane
 post_excerpt: ""
 layout: post
-permalink: http://dev.amra.pro/template-paginated/
+permalink: http://amra.pro/template-paginated/
 published: true
 post_date: 2012-01-08 10:00:20
 ---
