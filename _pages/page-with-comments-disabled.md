@@ -1,11 +1,11 @@
 ---
-ID: 37
+ID: 156
 post_title: Page with comments disabled
-author: Jane
+author: Theme Buster
 post_excerpt: ""
 layout: page
 permalink: >
-  http://amra.pro/page-with-comments-disabled/
+  http://amra.pro/about/page-with-comments-disabled/
 published: true
 post_date: 2007-09-04 10:48:10
 ---
