@@ -8,5 +8,5 @@ permalink: http://amra.pro/test-page/
 published: true
 post_date: 2017-12-14 18:52:04
 ---
-&nbsp;
-<h2>This is heading element</h2>
+
+			<h2>This is heading element This is heading elementThis is heading element</h2>
